@@ -19,6 +19,7 @@ With over 2 years of experience as a Data Analyst, I specialize in delivering ac
 
 ---
 ## Project 1: Purchasing Dashboard 
+![DHSUPPLY_2](https://github.com/Mouhsine22/My-Portfolio/assets/67834776/39da9ade-ab05-4417-95a3-c5f21cad3993)
 ## Project 2: Sales Dashboard 
 ## Project 3: Production Consumption Dashboard
 ## Project 4: Debt collection Dashboard 
