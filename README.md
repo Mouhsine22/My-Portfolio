@@ -18,6 +18,10 @@ With over 2 years of experience as a Data Analyst, I specialize in delivering ac
 </p>
 
 ---
+## Working Strategy 
+
+![Archedit2](https://github.com/Mouhsine22/My-Portfolio/assets/67834776/f03b2208-8efc-4331-a41d-e6066d72a0ca)
+
 ## Project 1: Purchasing Dashboard 
 ![DHSUPPLY_2](https://github.com/Mouhsine22/My-Portfolio/assets/67834776/39da9ade-ab05-4417-95a3-c5f21cad3993)
 ## Project 2: Sales Dashboard 
