@@ -31,7 +31,7 @@ In my current role, our strategy revolves around collecting data from multiple s
 ## Project 3: Production Consumption Dashboard
 ![PROD_UF](https://github.com/Mouhsine22/My-Portfolio/assets/67834776/7af8f522-9f85-424e-ab95-938ae3293972)
 ## Project 4: Debt collection Dashboard 
-![DEBTDH](https://github.com/Mouhsine22/My-Portfolio/assets/67834776/c1cf75cd-a58d-429a-8da4-ea2915ea50d5)
+![DEBTDH](DebtDash.gif)
 ## Project 5: Inventory Dashboard
 ## Project 7: Row Milk Collection Dashboard
 ![DHCOLL_2](https://github.com/Mouhsine22/My-Portfolio/assets/67834776/924a39c8-2eb0-4bb7-9e4e-e4348e1c63b3)
