@@ -8,7 +8,7 @@
 
 
 <p align="center">
-Welcome to my portfolio! Here, you'll discover a collection of projects showcasing my expertise in data visualization, business intelligence, and analytics.
+Welcome to my portfolio! Here, you'll discover a collection of projects showcasing my expertise in data visualization, business intelligence, and analytics. test
 </p>
 
 # About Me
