@@ -27,6 +27,8 @@ The Purchasing Dashboard project aims to provide a comprehensive and user-friend
 ***Showcase:***
 
 ![DHSUPPLY_3](https://github.com/Mouhsine22/My-Portfolio/assets/67834776/a669e989-4f93-481b-8369-75aff1f5512c)
+![DASHACHG](https://github.com/Mouhsine22/My-Portfolio/assets/67834776/5b8e5ff2-f08e-4386-a0bb-625c9664401f)
+
 
 ## Project 2: Sales Dashboard 
 ***Overview:*** 
