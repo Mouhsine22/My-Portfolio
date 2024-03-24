@@ -9,21 +9,15 @@
 ![Static Badge](https://img.shields.io/badge/Python-1?style=for-the-badge&logo=python&color=%234682B4%09)
 
 <p align="center">
-Welcome to my Power BI portfolio! Here, you'll find various projects and dashboards demonstrating my skills in data visualization, business intelligence, and analytics using Power BI.
+Welcome to my portfolio! Here, you'll discover a collection of projects showcasing my expertise in data visualization, business intelligence, and analytics.
 </p>
 
 # About Me
 <p align="justify">
-With over 2 years of experience as a Data Analyst, I specialize in delivering actionable insights through data analysis. I excel in transforming complex datasets into meaningful information, driving informed decision-making and strategic initiatives. My analytical mindset is complemented by extensive experience in various industries, ensuring adaptable solutions that meet evolving business needs.
+As a seasoned Data Analyst with over 2 years of experience, I specialize in translating intricate data into actionable insights, facilitating informed decision-making processes. My expertise lies in data manipulation, visualization, and statistical analysis, contributing to successful project outcomes.
 </p>
 
 ---
-## Current Experience
-<p align="justify">
-In my current role, our strategy revolves around collecting data from multiple sources, transforming it, and loading it into a staging area. We implement change data capture to ensure data synchronization and keep information updated. Following this, we construct data warehouses and data marts tailored to various sectors within our organization. Additionally, we leverage tabular model to facilitate extensive calculations and data processing. Finally, we develop dashboards to present the insights derived from this process.
-</p>
-
-![Archedit2](https://github.com/Mouhsine22/My-Portfolio/assets/67834776/f03b2208-8efc-4331-a41d-e6066d72a0ca)
 
 ## Project 1: Purchasing Dashboard 
 <p align="justify">
@@ -42,6 +36,8 @@ The Sales Dashboard is a powerful tool designed to provide comprehensive insight
 ## Project 3: Production Consumption Dashboard
 <p align="justify">
 The Production Consumption Dashboard serves as a centralized platform to comprehensively analyze and understand the costs associated with all industry activities within our production processes. This dashboard aggregates data from various sources, providing insights into resource consumption, production efficiency, and cost allocations. With a focus on transparency and optimization, this dashboard enables stakeholders to make informed decisions to enhance operational performance and drive cost-saving initiatives.
+
+Tools : SQL Server, SSIS, SSAS, Micorosft PowerBI.
 </p>
 
 ![PROD_UF](https://github.com/Mouhsine22/My-Portfolio/assets/67834776/7af8f522-9f85-424e-ab95-938ae3293972)
