@@ -6,6 +6,7 @@
 ![Static Badge](https://img.shields.io/badge/Microsoft%20Fabric-1?style=for-the-badge&logo=microsoft&color=%233CB371%09)
 ![Static Badge](https://img.shields.io/badge/Python-1?style=for-the-badge&logo=python&color=%234682B4%09)
 
+
 <p align="center">
 Welcome to my portfolio! Here, you'll discover a collection of projects showcasing my expertise in data visualization, business intelligence, and analytics.
 </p>
