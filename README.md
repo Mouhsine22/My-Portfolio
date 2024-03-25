@@ -1,4 +1,6 @@
 
+![42203a130314523 617d57a78a140](https://github.com/Mouhsine22/My-Portfolio/assets/67834776/4d2588ec-f908-4868-ac1e-079e81ba30fb)
+
 <p align="center">
 Welcome to my portfolio! Here, you'll discover a collection of projects showcasing my expertise in data visualization, business intelligence, and analytics.
 </p>
@@ -46,7 +48,7 @@ The Sales Dashboard is a powerful tool designed to provide comprehensive insight
 
 ***Showcase:***
 
-![DHCOM_3](https://github.com/Mouhsine22/My-Portfolio/assets/67834776/4c7096fe-a9fd-4d39-be25-3f5d949bd0dd)
+![DHCOM](https://github.com/Mouhsine22/My-Portfolio/assets/67834776/5f20a421-b33b-4b64-9b4a-29a8126207b4)
 
 ## Project 3: Production Consumption Dashboard
 ***Overview:*** 
@@ -85,6 +87,20 @@ The Debt Collection Dashboard is a comprehensive solution designed to streamline
 ![DEBTDH](https://github.com/Mouhsine22/My-Portfolio/assets/67834776/281bd88a-5a33-4024-9119-3ca2eba3ee56)
 
 ## Project 5: Inventory Dashboard
+
+***Tools:*** 
+
+![Static Badge](https://img.shields.io/badge/PowerBI-1?style=for-the-badge&logo=powerbi&color=%23F0E68C)
+![Static Badge](https://img.shields.io/badge/SSIS-1?style=for-the-badge&logo=microsoftsqlserver&color=%23708090)
+![Static Badge](https://img.shields.io/badge/SSAS-1?style=for-the-badge&logo=microsoftsqlserver&color=%231E90FF)
+![Static Badge](https://img.shields.io/badge/TABULAR-1?style=for-the-badge&logo=task&color=%2387CEEB)
+![Static Badge](https://img.shields.io/badge/SQL%20SERVER-1?style=for-the-badge&logo=microsoftsqlserver&color=red)
+
+***Showcase:***
+
+![INVT_ST](https://github.com/Mouhsine22/My-Portfolio/assets/67834776/8c0db9d6-6158-4df1-b229-c2a3fb00597f)
+
+
 ## Project 6: Row Milk Collection Dashboard
 ***Overview:*** 
 <p align="justify">
