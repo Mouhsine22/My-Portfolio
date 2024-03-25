@@ -87,6 +87,10 @@ The Debt Collection Dashboard is a comprehensive solution designed to streamline
 ![DEBTDH](https://github.com/Mouhsine22/My-Portfolio/assets/67834776/281bd88a-5a33-4024-9119-3ca2eba3ee56)
 
 ## Project 5: Inventory Dashboard
+***Overview:*** 
+<p align="justify">
+The Inventory Dashboard is a comprehensive solution designed to provide real-time insights into inventory management. It offers a user-friendly interface with visual representations of key inventory metrics, enabling stakeholders to monitor stock levels, track inventory movements, and identify potential bottlenecks or trends. Powered by data sourced from Microsoft Dynamics AX 365 and handling over 30 million rows of data, this dashboard provides unparalleled visibility into inventory operations.
+</p>
 
 ***Tools:*** 
 
