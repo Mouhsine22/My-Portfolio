@@ -1,5 +1,7 @@
+![header](https://github.com/Mouhsine22/My-Portfolio/assets/67834776/63187702-728b-4f3c-a9e8-8f0745c5d5c4)
 
-<p align="center">
+<p align=![Uploading header.png…]()
+"center">
 Welcome to my portfolio! Here, you'll discover a collection of projects showcasing my expertise in data visualization, business intelligence, and analytics.
 </p>
 
@@ -122,4 +124,4 @@ The Raw Milk Collection Dashboard is a specialized tool designed to streamline a
 ![DHCOLL_2](https://github.com/Mouhsine22/My-Portfolio/assets/67834776/924a39c8-2eb0-4bb7-9e4e-e4348e1c63b3)
 
 
-
+![footer](https://github.com/Mouhsine22/My-Portfolio/assets/67834776/062c1dca-5e90-4879-8307-88fd6d5ab612)
