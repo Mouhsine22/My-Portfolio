@@ -1,7 +1,6 @@
 ![header](https://github.com/Mouhsine22/My-Portfolio/assets/67834776/63187702-728b-4f3c-a9e8-8f0745c5d5c4)
 
-<p align=![Uploading header.png…]()
-"center">
+<p align="center">
 Welcome to my portfolio! Here, you'll discover a collection of projects showcasing my expertise in data visualization, business intelligence, and analytics.
 </p>
 
