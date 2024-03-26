@@ -123,5 +123,7 @@ The Raw Milk Collection Dashboard is a specialized tool designed to streamline a
 
 ![DHCOLL_2](https://github.com/Mouhsine22/My-Portfolio/assets/67834776/924a39c8-2eb0-4bb7-9e4e-e4348e1c63b3)
 
+## License
+Considering the significant time dedicated to project development and out of privacy considerations, certain PBIX files are presently not available publicly on GitHub. Should you wish to gain access to the code, please feel free to contact me directly. Your understanding in this matter is deeply valued.
 
 ![footer](https://github.com/Mouhsine22/My-Portfolio/assets/67834776/062c1dca-5e90-4879-8307-88fd6d5ab612)
