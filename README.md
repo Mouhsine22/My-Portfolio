@@ -131,5 +131,10 @@ In my current experience, our dashboard-building process is structured into thre
 
 ![Archedit2](https://github.com/Mouhsine22/My-Portfolio/assets/67834776/03ad4a48-a1fc-4302-8fbd-41b45452dd7f)
 
+## License
+
+<p align="justify">
+As the projects took considerable time to develop and due to privacy reasons, the projects files are not currently accessible on GitHub. If you're interested in accessing the code, please reach out to me directly. Thank you for your understanding.
+</p>
 
 ![footer](https://github.com/Mouhsine22/My-Portfolio/assets/67834776/062c1dca-5e90-4879-8307-88fd6d5ab612)
