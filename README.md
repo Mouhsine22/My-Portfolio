@@ -123,7 +123,13 @@ The Raw Milk Collection Dashboard is a specialized tool designed to streamline a
 
 ![DHCOLL_2](https://github.com/Mouhsine22/My-Portfolio/assets/67834776/924a39c8-2eb0-4bb7-9e4e-e4348e1c63b3)
 
-## License
-Considering the significant time dedicated to project development and out of privacy considerations, certain PBIX files are presently not available publicly on GitHub. Should you wish to gain access to the code, please feel free to contact me directly. Your understanding in this matter is deeply valued.
+## Strategy
+
+<p align="justify">
+In my current experience, our dashboard-building process is structured into three phases. Firstly, we gather data from multiple sources and consolidate it within a centralized data lake using SSIS (SQL Server Integration Services). From this unified data repository, we establish data warehouses/data marts, ensuring thorough cleaning and indexing procedures to optimize data integrity and accessibility. Next, leveraging SQL Server Analysis Services (SSAS), we construct tabular models to define essential measures based on the refined data. Finally, we employ Microsoft Power BI to craft visually compelling dashboards, facilitating intuitive data exploration and insightful decision-making. This systematic approach ensures the creation of robust, actionable dashboards tailored to meet business objectives.
+</p>
+
+![Archedit2](https://github.com/Mouhsine22/My-Portfolio/assets/67834776/03ad4a48-a1fc-4302-8fbd-41b45452dd7f)
+
 
 ![footer](https://github.com/Mouhsine22/My-Portfolio/assets/67834776/062c1dca-5e90-4879-8307-88fd6d5ab612)
